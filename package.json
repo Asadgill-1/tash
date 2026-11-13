@@ -1,0 +1,9 @@
+{
+  "name": "mehfil-taash",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node engine.test.cjs && node check.cjs",
+    "build": "node build.cjs"
+  }
+}
